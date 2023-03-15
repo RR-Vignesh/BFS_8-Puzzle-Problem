@@ -1,9 +1,25 @@
-# BFS_8-Puzzle-Problem
-Algorithm Implementation of Breadth First Search (BFS) for the 8-puzzle problem
+# Planning for Autonomous Robots - Project 1
+## Author
+Name: Vignesh Ravichandran Radhakrishnan </br>
+UID: 119144060
 
-Instructions to run the program:
+## Dependencies
+- python3
+- Numpy
+- copy
 
-clone the repo in your workspace
-Open Terminal and type the below command:
+## Instructions:
+- unzip proj1_vignesh_ravichandranradhakrishnan
+- open the terminal in the folder location and run the following command
+```
+python3 Proj1.py
+```
+- The following output files are available in the proj1_vignesh_ravichandranradhakrishnan folder which are:
+1. Nodes.txt
+2. nodePath.txt
+3. NodesInfo.txt
 
-python3 
+- run the following command to visualize the solution after generating the txt files:
+```
+python3 plot_path.py
+```
